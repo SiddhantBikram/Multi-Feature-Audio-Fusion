@@ -4,3 +4,6 @@
 <p align="center">
   <img src="Method.png" />
 </p>
+
+This is the code repository for our paper Multi-Feature Audio Fusion for Nonverbal Vocalization Classification accepted to ICASSP 2025. Code will be shared soon.
+
